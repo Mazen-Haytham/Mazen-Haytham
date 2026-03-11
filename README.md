@@ -11,6 +11,17 @@ Full-Stack Developer with hands-on experience building modern web applications. 
 ![](https://github-readme-stats.vercel.app/api?username=Mazen-Haytham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mazen-Haytham&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Haytham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mazen-Haytham/Mazen-Haytham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mazen-Haytham/Mazen-Haytham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mazen-Haytham/Mazen-Haytham/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
