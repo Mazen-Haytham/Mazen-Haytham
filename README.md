@@ -15,34 +15,17 @@
 Full-Stack Developer with hands-on experience building modern web applications. Specialized in:
 
 - 🎨 **Front-end** — React with TypeScript, Angular, Redux, Zustand
-- ⚙️ **Back-end** — Node.js, Express, Spring Boot, RESTful APIs
-- 🗄️ **Databases** — MongoDB, PostgreSQL, MySQL
+- ⚙️ **Back-end** — Node.js, Express, Spring Boot, ASP.NET CORE , RESTful APIs
+- 🗄️ **Databases** — MongoDB, PostgreSQL, MySQL, SQL Server
 - 🏗️ **Architecture** — Clean Architecture, MVC, Microservices-Ready Design, RBAC
-- 🐳 **DevOps** — Docker, Docker Compose, Git
+- 🐳 **DevOps** — Docker, Docker Compose, Git, CI/CD
 - 🎓 **CS Student** @ Helwan University — GPA: **3.91 / 4.0**
 
 <br clear="right"/>
 
 ---
 
-## 💼 Experience
 
-🏢 **Full-Stack Developer Intern** — Digital Egypt Pioneers Initiative (DEPI) *(06/2025 – 12/2025)*
-> React · TypeScript · Redux Toolkit · Zustand · Node.js · Express · MongoDB
-
-🏢 **Full-Stack Developer Intern** — Information Technology Institute (ITI) *(08/2025 – 09/2025)*
-> Angular · TypeScript · Node.js · Express · MongoDB
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **E-Commerce Backend** | TypeScript, Node.js, PostgreSQL, Prisma, JWT | Microservices-ready modular monolith, RBAC, N+1 optimized |
-| **Tickey** | Spring Boot, Java, Spring Security, Docker, React | AOP, RBAC, Dockerized, Clean Architecture |
-| **Travel Agency** | React, TypeScript, Zustand, Node.js, MongoDB | Full-stack booking platform, MVC, MongoDB Atlas |
-| **Movie App** | MongoDB, Express, Angular, Node.js, Bootstrap | MEAN stack, server-side pagination, watchlist |
 
 ---
 
@@ -115,32 +98,9 @@ Full-Stack Developer with hands-on experience building modern web applications. 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Haytham&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Haytham&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 
-</div>
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=Mazen-Haytham&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Mazen-Haytham&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
