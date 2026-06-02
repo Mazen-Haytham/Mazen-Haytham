@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mazen%20Haytham&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=22" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%2B+TypeScript+Enthusiast+%E2%9A%9B%EF%B8%8F;Node.js+%2B+Spring+Boot+ASP.NET+CORE+Backend+Dev+%F0%9F%94%A7;Microservices+%26+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;GPA+3.91+%7C+Helwan+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%2B+TypeScript+Enthusiast+%E2%9A%9B%EF%B8%8F;Node.js+%2B+Spring+Boot+++ASP.NET+CORE+Backend+Dev+%F0%9F%94%A7;Microservices+%26+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;GPA+3.91+%7C+Helwan+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
